@@ -23,7 +23,7 @@
 
 [linkedin]: https://www.linkedin.com/in/teresa-gomez-2778602a4
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4427696" style='border:none;'></iframe>
+
 
 Here are some ideas to get you started:
 
