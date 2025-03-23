@@ -23,8 +23,7 @@
 
 [linkedin]: https://www.linkedin.com/in/teresa-gomez-2778602a4
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4427696" style='border:none;'></iframe>
 
 Here are some ideas to get you started:
 
