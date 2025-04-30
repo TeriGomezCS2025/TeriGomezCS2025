@@ -22,6 +22,7 @@
 [<img align="left" alt="Teresa Gomez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/teresa-gomez-2778602a4
+[TryHackMe]: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4634374" style='border:none;'></iframe>
 
 
 
