@@ -20,6 +20,8 @@ https://www.linkedin.com/in/teresa-gomez-2778602a4
 * ICS2 CC Cert: https://www.credly.com/badges/4810ef77-7aec-4891-aebe-dc6f42be304a/linked_in_profile
 
 * Boot.dev: https://www.boot.dev/u/reflectingtrainer73
+* Boot.dev: Learn Linux Certification <img width="1885" height="1151" alt="bootdev_certificate" src="https://github.com/user-attachments/assets/adbd2213-f0ec-498d-ab5a-a012b760643e" />
+
 
 - 🔭 I’m currently working on a well-balanced purple team profile.
 - 📫 How to reach me: CySecTeriGomez@gmail.com
